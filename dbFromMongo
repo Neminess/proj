@@ -1,0 +1,4 @@
+mongodb+srv://nemirana:Tr1gg3Reed@cluster0.ninqb.mongodb.net/cluster0?retryWrites=true&w=majority  
+
+Above is the mongoDB Uri for db-connection. The file is located in neminess.github.io; the file itself is in js/dbConnection.
+This is the clusterinfo needed for db-connection to work. 
